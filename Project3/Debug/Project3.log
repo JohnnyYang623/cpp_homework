@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\JohnnyYang\学习\大二下\计网\课程设计\Project3\pokemons.h(254): warning C4715:  “Pokemon::skill”: 不是所有的控件路径都返回值
+  Project3.vcxproj -> D:\JohnnyYang\学习\大二下\计网\课程设计\Project3\Debug\Project3.exe
