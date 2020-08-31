@@ -1,0 +1,5 @@
+﻿  client.cpp
+  源.cpp
+  正在生成代码...
+源.obj : error LNK2005: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl split(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,char)" (?split@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@D@Z) 已经在 client.obj 中定义
+D:\JohnnyYang\学习\大二下\cpp\课设\client\Debug\client.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
